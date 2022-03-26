@@ -1,0 +1,36 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.lign-highlight{
+    color: tomato;
+}
+
+.half-width{
+  width: 40%;
+  float: left;
+  margin-left: 8%;
+  padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+
+.filled{
+    color: tomato;
+    font-size: 0.8em;
+}
+.unfilled{
+    color: blue;
+   font-size: 0.8em;
+}
+.container{
+    float: right;
+}
+.half-width{
+    float: right;
+}
+
+.abc{
+    text-align: center;
+}
